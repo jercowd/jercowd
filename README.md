@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jeremy Cowden.
 - 👀 I’m interested in AI engineering, full-stack development, mobile applications, video-games, and lots more!
 - 🌐 I’m looking to collaborate on a variety of projects with people who have a passion to build new technologies around the world.
-- 🌱 I’m currently looking for a full-time developer role.
+- 🌱 I’m currently looking for a full-time web developer role.
 - 📫 How to reach me: jercowd@gmail.com
 
 <!---
